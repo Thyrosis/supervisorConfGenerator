@@ -13,3 +13,7 @@ The laravelqueues file should reside in the same directory as this script and sh
 - username2 domainname2
 
 Configurations are saved in individual files in the supervisord.d/$user files and included in the main /etc/supervisor.conf file by the [include] section at the bottom.
+
+# Why did I create this?
+
+Because I'm lazy and I don't like doing this manually. Next stop is to automatically call this script whenever a 'git pull' is done from the live server.
