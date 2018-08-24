@@ -4,6 +4,9 @@
 #
 #       Laravel / SuperVisor conf generator
 #
+#       Specifically meant for DirectAdmin servers, hence the file structure:
+#       /home/$user/domains/$domain/
+#
 #       Reads the specified file for a collection of usernames and domains to be added to the
 #       Supervisor configuration file.
 #
@@ -18,6 +21,7 @@
 #
 #       @author         Maarten Sax
 #       @version        2018-08-10
+#       @version        2018-08-24      Added specification for DirectAdmin servers
 #
 ######################################################################################################################
 
