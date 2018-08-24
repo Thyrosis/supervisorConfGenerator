@@ -17,3 +17,7 @@ Configurations are saved in individual files in the supervisord.d/$user files an
 # Why did I create this?
 
 Because I'm lazy and I don't like doing this manually. Next stop is to automatically call this script whenever a 'git pull' is done from the live server.
+
+# What were the issues with so many commits?
+
+There weren't any. I mean, typing is not an issue. I'm just having major issues with GitHub, protecting branches and that sort of stuff.
