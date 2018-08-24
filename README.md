@@ -23,3 +23,5 @@ Because I'm lazy and I don't like doing this manually. Next stop is to automatic
 There weren't any. I mean, typing is not an issue. I'm just having major issues with GitHub, protecting branches and that sort of stuff. Although, we might have finally fixed it.
 
 Or how about now?
+
+Adding some more.
